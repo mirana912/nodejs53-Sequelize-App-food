@@ -4,14 +4,10 @@
 Backend API cho ứng dụng đặt đồ ăn
 
 ## Cài đặt
-\`\`\`bash
 npm install
-\`\`\`
 
 ## Chạy server
-\`\`\`bash
 npm run dev
-\`\`\`
 
 ## API Endpoints
 
