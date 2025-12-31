@@ -1,5 +1,7 @@
 # nodejs53-Sequelize-App-food
 
+<<<<<<< HEAD
+
 # Food Delivery API
 
 Backend API cho ứng dụng giao đồ ăn với Node.js + Express + MySQL
